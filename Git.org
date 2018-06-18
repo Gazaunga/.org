@@ -1,0 +1,5 @@
+* Git
+
+** Update local repository
+
+-git pull
