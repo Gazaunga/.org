@@ -10,3 +10,7 @@
 -keep notes/a journal on observations on C
 
 [[https://viewsourcecode.org/snaptoken/kilo/][Kilo Editor Tutorial]]
+
+* Left Off at:
+https://viewsourcecode.org/snaptoken/kilo/02.enteringRawMode.html#display-keypresses
+[2018-6-18 Mon]
