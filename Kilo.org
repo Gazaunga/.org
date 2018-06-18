@@ -1,6 +1,12 @@
 * TODO 184 day kilo.c plan
-** the kilo tutorial is 184 steps [2018-6-17 Sun]
+** the kilo tutorial is 184 steps 
+
+[2018-6-17 Sun]
+
 -limit myself to one step per day
+
 -annotate each element of the kilo.c program?????
+
 -keep notes/a journal on observations on C
+
 [[https://viewsourcecode.org/snaptoken/kilo/][Kilo Editor Tutorial]]
