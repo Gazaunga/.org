@@ -1,1 +1,1 @@
-;; This is the master file for all projects
+;; This is the master file for all active projects
