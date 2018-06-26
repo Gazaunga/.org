@@ -1,0 +1,31 @@
+* Basic Operations
+** TODO Insert a character before or after the cursor.
+** TODO Delete a character before or after the cursor and return the
+  deleted character.
+** TODO Move the cursor left or right (crossing line boundaries if
+  necessary) and return the character or nil at the beginning
+  or end of the buffer.
+** TODO Move the cursor up or down a line and return nil/false only if a
+  line boundary could not be crossed.  The cursor may be placed in
+  the most natural column for the data structure.
+  
+* Intermediate Features
+** TODO Get current line and column numbers
+** TODO Copy some amount of text before or after the cursor and return  
+  this buffer.
+** TODO Display some context around the cursor.
+** TODO Cut some amount of text before or after the cursor and return
+  this buffer.
+** TODO Paste a copy/cut buffer before or after the cursor.
+** TODO Insert a file.
+** TODO Write to a file.
+** TODO Goto a specific line or column.
+** TODO Goto the begin/end of the line/buffer.
+** TODO Copy or cut to a specific line/column.
+** TODO Filter some text through a ruby block.
+** TODO Search (and possibly replace) using a regular expression.
+** TODO Undo/redo.
+
+* Bonus Tricks
+** TODO Only store changes to a file.
+** TODO Handle multiple efficient cursors in a text buffer.
