@@ -1,3 +1,9 @@
+#+TITLE: Title
+#+AUTHOR: J. M. Ottley
+#+DATE: 2018-07-31
+#+DESCRIPTION: journal entry
+#+KEYWORDS: personal, project, schoolwork
+
 * Refile ;; for things I just need to write down fast, it's a list of things that need to be refiled later
 * Things Todo ;; a list of things I must remember to do in the story
 * Plot ;; the shape of the story, as it is at the time. Also a reminder of what I've done so far
