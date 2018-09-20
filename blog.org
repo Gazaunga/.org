@@ -1,15 +1,24 @@
 * Agenda
+
 -O.E.R.
+
 -Textbook Affordability
+
 -Publishing technologies
+
 -open academic publishing/open scholarly publishing/open journals
+
 -tenure incentives
+
 -hogan/education commission
 
 * Sources
+
 -SPARC
+
 -Kirwan Center
 -
 
 * Jekyll contrib/assets
+
 -jekyll-feed
