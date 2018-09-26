@@ -4,25 +4,45 @@
 #+DESCRIPTION: journal entry
 #+KEYWORDS: personal, project, schoolwork
 
-* Refile ;; for things I just need to write down fast, it's a list of things that need to be refiled later
+* Refile 
 
-* Things Todo ;; a list of things I must remember to do in the story
+for things I just need to write down fast, it's a list of things that need to be refiled later
 
-* Plot ;; the shape of the story, as it is at the time. Also a reminder of what I've done so far
+* Things Todo 
 
-* Story ;; the story itself
+a list of things I must remember to do in the story
 
-* Characters ;; notes
+* Plot 
 
-* Places ;; notes
+the shape of the story, as it is at the time. Also a reminder of what I've done so far
 
-* Scenes ;; notes
+* Story 
 
-* Quotations ;; notes
+the story itself
 
-* Styles ;; to remind me just how I wrote things out e.g. Daddy Bear, not Daddy bear
+* Characters 
 
-* Ideas ;; ideas that may or may not be included in the story
+notes
+
+* Places 
+
+notes
+
+* Scenes 
+
+notes
+
+* Quotations 
+
+notes
+
+* Styles 
+
+to remind me just how I wrote things out e.g. Daddy Bear, not Daddy bear
+
+* Ideas 
+
+ideas that may or may not be included in the story
 
 ;; ;; ;; ;; ;; ;;
 ;;   Example   ;;
