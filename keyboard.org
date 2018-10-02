@@ -12,8 +12,12 @@
 [[https://medium.com/@clmyles/building-a-60-keyboard-a-dz60-build-guide-679e98083221][DZ60 Build Guide]]
 
 ;;https://kbdfans.cn/products/fully-assembly-dz60-pcb?variant=7134053990458
+
 ;;https://kbdfans.cn/products/pre-orderenjoypbt-9009-keycaps-set
+
 ;;https://kprepublic.com/products/xd64-xd60-60-hhkb-layout-aluminium-case-with-acrylic-diffuser
+
+;;https://stackoverflow.com/questions/6688075/permanently-summing-a-column-in-an-org-mode-table
 
 ** Pricing
 
