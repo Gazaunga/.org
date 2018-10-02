@@ -1,24 +1,38 @@
+#+TITLE:  Keyboard build
+#+AUTHOR: Jeremy Ottley
+#+EMAIL:  jeremy.ottley@gmail.com
+#+DATE:   2018 Oct 30
+#+TAGS:   hhkb keyboard mechanical keycap pbt dz60 xd64 pcb
+#+PROPERTY: header-args:sh :results silent :tangle no
+
 * Keyboard Build
 
 ** Switches
-
 -Gateron Blacks for shift/spacebar
 ^smoother than cherry blacks
-
 -zealios78g?
-
 -split spacebar - left space = backspace
-
 [[https://medium.com/@clmyles/building-a-60-keyboard-a-dz60-build-guide-679e98083221][DZ60 Build Guide]]
-
-;;https://kbdfans.cn/products/fully-assembly-dz60-pcb?variant=7134053990458
-
-;;https://kbdfans.cn/products/pre-orderenjoypbt-9009-keycaps-set
-
-;;https://kprepublic.com/products/xd64-xd60-60-hhkb-layout-aluminium-case-with-acrylic-diffuser
-
-;;https://stackoverflow.com/questions/6688075/permanently-summing-a-column-in-an-org-mode-table
+[[https://kbdfans.cn/products/fully-assembly-dz60-pcb?variant=7134053990458][DZ60 PCB - Fully Assembled]]
+[[https://kbdfans.cn/products/pre-orderenjoypbt-9009-keycaps-set][EnjoyPBT-9009 Keycaps]]
+[[https://kprepublic.com/products/xd64-xd60-60-hhkb-layout-aluminium-case-with-acrylic-diffuser][XD60 HHKB Layout Aluminum Case]]
 
 ** Pricing
 
-;; table with sum?
+-dummy numbers for now
+
+|---+-----+------+----------+---------|
+| ! | PCB | Case | Switches | Keycaps |
+|---+-----+------+----------+---------|
+|   | $36 | $45  | $60      | $119    |
+|---+-----+------+----------+---------|
+| ^ |     |      |          | x       |
+|---+-----+------+----------+---------|
+;;#+TBLFM: $x=vsum(@1..@-1)
+#+TBLFM: @row$col=vsum(@1..@-1)
+
+#+DESCRIPTION: My plan for an HHKB-alike for OSX
+
+#+OPTIONS:     num:nil toc:nil todo:nil tasks:nil tags:nil
+#+OPTIONS:     skip:nil author:nil email:nil creator:nil timestamp:nil
+#+INFOJS_OPT:  view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
