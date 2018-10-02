@@ -25,6 +25,12 @@
 
 [[https://kprepublic.com/products/xd64-xd60-60-hhkb-layout-aluminium-case-with-acrylic-diffuser][XD60 HHKB Layout Aluminum Case]]
 
+[[https://www.aliexpress.com/item/HHKB-GH60-Programmable-PCB-CNC-Case-Plate-Switches-Led-Stabilizers-Keycaps-DIY-Kit-For-HHKB-MX/32799705288.html][HHKB-GH60]]
+
+[[https://www.aliexpress.com/item/NPKC-HHKB-Keycaps-PBT-Cherry-Profile-Fit-Cherry-MX-Switches-Top-Print-or-Blank-for-HHKB/32852097355.html?spm=2114.10010108.1000014.2.5fe338e8dQXgid&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.106568.000000000000000&scm_id=1007.13338.106568.000000000000000&scm-url=1007.13338.106568.000000000000000&pvid=f8640447-08ba-4a16-bbe1-c2a962916682][NPKC HHKB Keycaps PBT Cherry Profile Fit Cherry MX Switches Top Print or Blank for HHKB 60% Mechanical Keyboard Free Shipping]]
+
+
+
 ** Pricing
 
 -dummy numbers for now
