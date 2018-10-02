@@ -8,13 +8,21 @@
 * Keyboard Build
 
 ** Switches
+
 -Gateron Blacks for shift/spacebar
+
 ^smoother than cherry blacks
+
 -zealios78g?
+
 -split spacebar - left space = backspace
+
 [[https://medium.com/@clmyles/building-a-60-keyboard-a-dz60-build-guide-679e98083221][DZ60 Build Guide]]
+
 [[https://kbdfans.cn/products/fully-assembly-dz60-pcb?variant=7134053990458][DZ60 PCB - Fully Assembled]]
+
 [[https://kbdfans.cn/products/pre-orderenjoypbt-9009-keycaps-set][EnjoyPBT-9009 Keycaps]]
+
 [[https://kprepublic.com/products/xd64-xd60-60-hhkb-layout-aluminium-case-with-acrylic-diffuser][XD60 HHKB Layout Aluminum Case]]
 
 ** Pricing
@@ -28,7 +36,7 @@
 |---+-----+------+----------+---------|
 | ^ |     |      |          | x       |
 |---+-----+------+----------+---------|
-;;#+TBLFM: $x=vsum(@1..@-1)
+#+TBLFM: $x=vsum(@1..@-1) ;; choose one or the other, the bottom seems preferable for readability
 #+TBLFM: @row$col=vsum(@1..@-1)
 
 #+DESCRIPTION: My plan for an HHKB-alike for OSX
