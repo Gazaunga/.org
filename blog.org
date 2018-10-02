@@ -22,3 +22,9 @@
 * Jekyll contrib/assets
 
 -jekyll-feed
+
+* Post resources/ideas
+
+-How I fell in love with open resources/jstor etc
+
+[[https://litreactor.com/columns/library-love-the-future-is-open][The Future is Open]]
