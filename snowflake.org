@@ -4,8 +4,6 @@
 #+DESCRIPTION: journal entry
 #+KEYWORDS: personal, project, schoolwork
 
-* The Snowflake Method:
-
 ** A Summary
 
 In a nutshell:
